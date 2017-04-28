@@ -1,0 +1,36 @@
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll.config
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.ControlTelefonos.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.Properties.Resources.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.pdb
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll.config
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.pdb
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.ControlTelefonos.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.Properties.Resources.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.dll
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.pdb
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll.config
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.pdb
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.ControlTelefonos.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.Properties.Resources.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.csproj.GenerateResource.Cache
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.dll
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll.config
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\bin\Debug\ControlesWindows.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.csprojResolveAssemblyReference.cache
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.ControlTelefonos.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.Properties.Resources.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.csproj.GenerateResource.Cache
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\ControlesWindows\obj\Debug\ControlesWindows.pdb

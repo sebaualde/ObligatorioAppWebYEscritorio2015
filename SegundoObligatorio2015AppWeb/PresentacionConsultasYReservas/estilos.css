@@ -1,0 +1,176 @@
+body
+{
+	background:#ffffff;
+    text-align: center;
+}
+
+#contenedor
+{
+	width:745px;
+	background: #ffffff;
+	margin:auto;
+	border: 1px solid #202020;	
+}
+
+#cabecera
+{
+	background:#000000;
+	border-bottom:2px solid #afa318;
+    text-align: left;
+}
+
+#contenido
+{
+	margin:auto;
+	position: relative;
+}
+
+
+#menu
+{
+  background: #333333;
+  height: 38px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.estilomenu {
+  border: none;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  font: 67.5% 'Lucida Sans Unicode', 'Bitstream Vera Sans', 'Trebuchet Unicode MS', 'Lucida Grande', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  width: auto;
+}
+.estilomenu ul {
+  background: #333333;
+  height: 35px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.estilomenu li {
+  float: left;
+  padding: 3px;
+
+}
+.estilomenu li a {
+  background: #333333 url('img/separador.gif') bottom right no-repeat;
+  display: block;
+  font-weight: normal;
+  line-height: 35px;
+  margin: 0px;
+  padding: 0px 25px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.estilomenu li > a:hover,
+.estilomenu ul li:hover > a {
+  background:#afa318 url('img/flecha-arriba.png') bottom center no-repeat;
+  color: #202020;
+  text-decoration: none;
+  
+}
+
+
+/*INICIO PIE DE PÁGINA*/
+#pie{
+	background:#000000;
+	color:#ffffff;
+	height:50px;
+	padding-top:10px;
+	border-top:2px solid #afa318;
+	width:745px;
+	margin:0 auto 0 auto;
+	border-right:1px solid #000000;
+	border-left:1px solid #000000;
+	display:block;
+
+}
+
+#pie a
+{
+	color:#afa318;
+}
+/*FIN PIE DE PÁGINA*/
+
+/*INICIO TOOLTIP DE INFO*/
+a.infotooltip:hover {
+text-decoration:none;
+}
+
+a.infotooltip span {
+display:none;
+
+padding:5px 5px;
+}
+
+a.infotooltip:hover span {
+display:inline;
+position:absolute;
+border:1px solid #0D7EF6;
+background:#C4DEFA;
+color:#0D7EF6;
+}
+/*FIN TOOLTIP DE ERRORES*/
+
+
+/*INICIO BOX DE MENSAJE OK y ERROR*/
+
+.mensajeok
+	{
+		width:90%;
+		background:#CCFF99 url("img/ok.png") no-repeat;
+		background-position: 2px center;
+		border:#00ff00 1px dashed;
+		padding:20px;
+		font-weight:bold;
+		margin-bottom:10px;
+	}
+
+.mensajeerror
+	{
+		width:90%;
+		background:#ffc0c0 url("img/error.png") no-repeat;
+		background-position: 2px center;
+		border:#ff0000 1px dashed;
+		padding:20px;
+		color:#ff0000;
+		font-weight:bold;
+		margin-bottom:10px;
+		position: relative;
+		
+	}
+	.mensajeinfo
+	{
+		width:90%;
+		background:#C4DEFA url("img/info.png") no-repeat;
+		background-position: 2px center;
+		border:#0D7EF6 1px dashed;
+		padding:20px;
+		color:#0D7EF6;
+		font-weight:bold;
+		margin-bottom:10px;
+		
+	}
+/*INICIO BOX DE MENSAJE OK Y ERROR*/
+
+#bloque-izq
+{
+    width:450px;
+    float:left;
+}
+
+#bloque-der
+{
+    width:250px;
+    float:right;
+    border:1px solid #000000;
+    height:50px;
+    position:fixed;
+    
+}

@@ -1,0 +1,105 @@
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+D:\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+D:\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Obligatorio2015AppWeb\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+D:\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\w7\Desktop\Marcelo\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\w7\Desktop\Marcelo\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\w7\Desktop\Marcelo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\Marcelo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\Marcelo\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\w7\Desktop\Marcelo\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\w7\Desktop\Marcelo\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Marcelo\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Marcelo\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Marcelo\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Marcelo\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Marcelo\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\Marcelo\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Marcelo\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Marcelo - copia\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\Persistencia.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\Persistencia\obj\Debug\Persistencia.pdb

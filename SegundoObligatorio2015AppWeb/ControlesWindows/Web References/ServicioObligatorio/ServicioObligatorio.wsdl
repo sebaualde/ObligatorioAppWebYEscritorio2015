@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="AltaCategoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCategoria" type="tns:Categoria" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Categoria">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Identificador" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AltaCategoriaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BajaCategoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCategoria" type="tns:Categoria" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BajaCategoriaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ModificarCategoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCategoria" type="tns:Categoria" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ModificarCategoriaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BuscarCategoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarCategoriaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarCategoriaResult" type="tns:Categoria" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCategoria">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarCategoriaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarCategoriaResult" type="tns:ArrayOfCategoria" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfCategoria">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Categoria" nillable="true" type="tns:Categoria" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AltaCiudad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCiudad" type="tns:Ciudad" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Ciudad">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="CodDepto" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AltaCiudadResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BajaCiudad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCiudad" type="tns:Ciudad" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BajaCiudadResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BuscarCiudad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCodDepto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pNombre" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarCiudadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarCiudadResult" type="tns:Ciudad" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCiudad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pDepartamento" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarCiudadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarCiudadResult" type="tns:ArrayOfCiudad" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfCiudad">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Ciudad" nillable="true" type="tns:Ciudad" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="LogueoUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pNombreUsuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pContrasenia" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LogueoUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LogueoUsuarioResult" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Usuario" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CI" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NombreUsuario" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Contrasenia" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AltaUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pUsuario" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AltaUsuarioResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BajaUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pUsuario" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BajaUsuarioResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ModificarUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pUsuario" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ModificarUsuarioResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BuscarUsuario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pCi" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarUsuarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarUsuarioResult" type="tns:Usuario" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AltaEmpresa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pEmpresa" type="tns:Empresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Empresa">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Rut" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Direccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Telefonos" type="tns:ArrayOfTelefono" />
+          <s:element minOccurs="0" maxOccurs="1" name="Ciudad" type="tns:Ciudad" />
+          <s:element minOccurs="0" maxOccurs="1" name="Categoria" type="tns:Categoria" />
+          <s:element minOccurs="0" maxOccurs="1" name="Visitas" type="tns:ArrayOfVisita" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantidadVisitas" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="FechaUltimaVisita" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NombreUltimaVisita" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfTelefono">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Telefono" nillable="true" type="tns:Telefono" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Telefono">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Numero" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfVisita">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Visita" nillable="true" type="tns:Visita" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Visita">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Cliente" type="tns:Cliente" />
+          <s:element minOccurs="0" maxOccurs="1" name="NombreCliente" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaYHora" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="VisitaAceptada" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Cliente">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Usuario">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="Edad" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="AltaEmpresaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BajaEmpresa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pEmpresa" type="tns:Empresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BajaEmpresaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ModificarEmpresa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pEmpresa" type="tns:Empresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ModificarEmpresaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="BuscarEmpresa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pRut" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarEmpresaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarEmpresaResult" type="tns:Empresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarEmpresa">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarEmpresaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarEmpresaResult" type="tns:ArrayOfEmpresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfEmpresa">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Empresa" nillable="true" type="tns:Empresa" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarEmpresasXCiudadYCategoria">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCiudad" type="tns:Ciudad" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCategoria" type="tns:Categoria" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarEmpresasXCiudadYCategoriaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarEmpresasXCiudadYCategoriaResult" type="tns:ArrayOfEmpresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NuevaVisita">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pEmpresa" type="tns:Empresa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NuevaVisitaResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListadoVisitasXml">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCliente" type="tns:Cliente" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListadoVisitasXmlResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListadoVisitasXmlResult">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ParaPoderSerializar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="unAdmin" type="tns:Administrador" />
+            <s:element minOccurs="0" maxOccurs="1" name="unCliente" type="tns:Cliente" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Administrador">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:Usuario">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="VeListado" type="s:boolean" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="ParaPoderSerializarResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ParaPoderSerializarAdmin">
+        <s:complexType />
+      </s:element>
+      <s:element name="ParaPoderSerializarAdminResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ParaPoderSerializarAdminResult" type="tns:Administrador" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AltaCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:AltaCategoria" />
+  </wsdl:message>
+  <wsdl:message name="AltaCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:AltaCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="BajaCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:BajaCategoria" />
+  </wsdl:message>
+  <wsdl:message name="BajaCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:BajaCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModificarCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:ModificarCategoria" />
+  </wsdl:message>
+  <wsdl:message name="ModificarCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:ModificarCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="BuscarCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarCategoria" />
+  </wsdl:message>
+  <wsdl:message name="BuscarCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarCategoria" />
+  </wsdl:message>
+  <wsdl:message name="ListarCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="AltaCiudadSoapIn">
+    <wsdl:part name="parameters" element="tns:AltaCiudad" />
+  </wsdl:message>
+  <wsdl:message name="AltaCiudadSoapOut">
+    <wsdl:part name="parameters" element="tns:AltaCiudadResponse" />
+  </wsdl:message>
+  <wsdl:message name="BajaCiudadSoapIn">
+    <wsdl:part name="parameters" element="tns:BajaCiudad" />
+  </wsdl:message>
+  <wsdl:message name="BajaCiudadSoapOut">
+    <wsdl:part name="parameters" element="tns:BajaCiudadResponse" />
+  </wsdl:message>
+  <wsdl:message name="BuscarCiudadSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarCiudad" />
+  </wsdl:message>
+  <wsdl:message name="BuscarCiudadSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarCiudadResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarCiudadSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarCiudad" />
+  </wsdl:message>
+  <wsdl:message name="ListarCiudadSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarCiudadResponse" />
+  </wsdl:message>
+  <wsdl:message name="LogueoUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:LogueoUsuario" />
+  </wsdl:message>
+  <wsdl:message name="LogueoUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:LogueoUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="AltaUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:AltaUsuario" />
+  </wsdl:message>
+  <wsdl:message name="AltaUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:AltaUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="BajaUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:BajaUsuario" />
+  </wsdl:message>
+  <wsdl:message name="BajaUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:BajaUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModificarUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:ModificarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ModificarUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:ModificarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="BuscarUsuarioSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="BuscarUsuarioSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="AltaEmpresaSoapIn">
+    <wsdl:part name="parameters" element="tns:AltaEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="AltaEmpresaSoapOut">
+    <wsdl:part name="parameters" element="tns:AltaEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="BajaEmpresaSoapIn">
+    <wsdl:part name="parameters" element="tns:BajaEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="BajaEmpresaSoapOut">
+    <wsdl:part name="parameters" element="tns:BajaEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModificarEmpresaSoapIn">
+    <wsdl:part name="parameters" element="tns:ModificarEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="ModificarEmpresaSoapOut">
+    <wsdl:part name="parameters" element="tns:ModificarEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="BuscarEmpresaSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="BuscarEmpresaSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarEmpresaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="ListarEmpresaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarEmpresasXCiudadYCategoriaSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarEmpresasXCiudadYCategoria" />
+  </wsdl:message>
+  <wsdl:message name="ListarEmpresasXCiudadYCategoriaSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarEmpresasXCiudadYCategoriaResponse" />
+  </wsdl:message>
+  <wsdl:message name="NuevaVisitaSoapIn">
+    <wsdl:part name="parameters" element="tns:NuevaVisita" />
+  </wsdl:message>
+  <wsdl:message name="NuevaVisitaSoapOut">
+    <wsdl:part name="parameters" element="tns:NuevaVisitaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListadoVisitasXmlSoapIn">
+    <wsdl:part name="parameters" element="tns:ListadoVisitasXml" />
+  </wsdl:message>
+  <wsdl:message name="ListadoVisitasXmlSoapOut">
+    <wsdl:part name="parameters" element="tns:ListadoVisitasXmlResponse" />
+  </wsdl:message>
+  <wsdl:message name="ParaPoderSerializarSoapIn">
+    <wsdl:part name="parameters" element="tns:ParaPoderSerializar" />
+  </wsdl:message>
+  <wsdl:message name="ParaPoderSerializarSoapOut">
+    <wsdl:part name="parameters" element="tns:ParaPoderSerializarResponse" />
+  </wsdl:message>
+  <wsdl:message name="ParaPoderSerializarAdminSoapIn">
+    <wsdl:part name="parameters" element="tns:ParaPoderSerializarAdmin" />
+  </wsdl:message>
+  <wsdl:message name="ParaPoderSerializarAdminSoapOut">
+    <wsdl:part name="parameters" element="tns:ParaPoderSerializarAdminResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServicioObligatorioSoap">
+    <wsdl:operation name="AltaCategoria">
+      <wsdl:input message="tns:AltaCategoriaSoapIn" />
+      <wsdl:output message="tns:AltaCategoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaCategoria">
+      <wsdl:input message="tns:BajaCategoriaSoapIn" />
+      <wsdl:output message="tns:BajaCategoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarCategoria">
+      <wsdl:input message="tns:ModificarCategoriaSoapIn" />
+      <wsdl:output message="tns:ModificarCategoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarCategoria">
+      <wsdl:input message="tns:BuscarCategoriaSoapIn" />
+      <wsdl:output message="tns:BuscarCategoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarCategoria">
+      <wsdl:input message="tns:ListarCategoriaSoapIn" />
+      <wsdl:output message="tns:ListarCategoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaCiudad">
+      <wsdl:input message="tns:AltaCiudadSoapIn" />
+      <wsdl:output message="tns:AltaCiudadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaCiudad">
+      <wsdl:input message="tns:BajaCiudadSoapIn" />
+      <wsdl:output message="tns:BajaCiudadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarCiudad">
+      <wsdl:input message="tns:BuscarCiudadSoapIn" />
+      <wsdl:output message="tns:BuscarCiudadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarCiudad">
+      <wsdl:input message="tns:ListarCiudadSoapIn" />
+      <wsdl:output message="tns:ListarCiudadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LogueoUsuario">
+      <wsdl:input message="tns:LogueoUsuarioSoapIn" />
+      <wsdl:output message="tns:LogueoUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaUsuario">
+      <wsdl:input message="tns:AltaUsuarioSoapIn" />
+      <wsdl:output message="tns:AltaUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaUsuario">
+      <wsdl:input message="tns:BajaUsuarioSoapIn" />
+      <wsdl:output message="tns:BajaUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarUsuario">
+      <wsdl:input message="tns:ModificarUsuarioSoapIn" />
+      <wsdl:output message="tns:ModificarUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarUsuario">
+      <wsdl:input message="tns:BuscarUsuarioSoapIn" />
+      <wsdl:output message="tns:BuscarUsuarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AltaEmpresa">
+      <wsdl:input message="tns:AltaEmpresaSoapIn" />
+      <wsdl:output message="tns:AltaEmpresaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BajaEmpresa">
+      <wsdl:input message="tns:BajaEmpresaSoapIn" />
+      <wsdl:output message="tns:BajaEmpresaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificarEmpresa">
+      <wsdl:input message="tns:ModificarEmpresaSoapIn" />
+      <wsdl:output message="tns:ModificarEmpresaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarEmpresa">
+      <wsdl:input message="tns:BuscarEmpresaSoapIn" />
+      <wsdl:output message="tns:BuscarEmpresaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarEmpresa">
+      <wsdl:input message="tns:ListarEmpresaSoapIn" />
+      <wsdl:output message="tns:ListarEmpresaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarEmpresasXCiudadYCategoria">
+      <wsdl:input message="tns:ListarEmpresasXCiudadYCategoriaSoapIn" />
+      <wsdl:output message="tns:ListarEmpresasXCiudadYCategoriaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="NuevaVisita">
+      <wsdl:input message="tns:NuevaVisitaSoapIn" />
+      <wsdl:output message="tns:NuevaVisitaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListadoVisitasXml">
+      <wsdl:input message="tns:ListadoVisitasXmlSoapIn" />
+      <wsdl:output message="tns:ListadoVisitasXmlSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ParaPoderSerializar">
+      <wsdl:input message="tns:ParaPoderSerializarSoapIn" />
+      <wsdl:output message="tns:ParaPoderSerializarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ParaPoderSerializarAdmin">
+      <wsdl:input message="tns:ParaPoderSerializarAdminSoapIn" />
+      <wsdl:output message="tns:ParaPoderSerializarAdminSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicioObligatorioSoap" type="tns:ServicioObligatorioSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AltaCategoria">
+      <soap:operation soapAction="http://tempuri.org/AltaCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaCategoria">
+      <soap:operation soapAction="http://tempuri.org/BajaCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarCategoria">
+      <soap:operation soapAction="http://tempuri.org/ModificarCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarCategoria">
+      <soap:operation soapAction="http://tempuri.org/BuscarCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCategoria">
+      <soap:operation soapAction="http://tempuri.org/ListarCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaCiudad">
+      <soap:operation soapAction="http://tempuri.org/AltaCiudad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaCiudad">
+      <soap:operation soapAction="http://tempuri.org/BajaCiudad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarCiudad">
+      <soap:operation soapAction="http://tempuri.org/BuscarCiudad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCiudad">
+      <soap:operation soapAction="http://tempuri.org/ListarCiudad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogueoUsuario">
+      <soap:operation soapAction="http://tempuri.org/LogueoUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaUsuario">
+      <soap:operation soapAction="http://tempuri.org/AltaUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaUsuario">
+      <soap:operation soapAction="http://tempuri.org/BajaUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarUsuario">
+      <soap:operation soapAction="http://tempuri.org/ModificarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarUsuario">
+      <soap:operation soapAction="http://tempuri.org/BuscarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaEmpresa">
+      <soap:operation soapAction="http://tempuri.org/AltaEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaEmpresa">
+      <soap:operation soapAction="http://tempuri.org/BajaEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarEmpresa">
+      <soap:operation soapAction="http://tempuri.org/ModificarEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarEmpresa">
+      <soap:operation soapAction="http://tempuri.org/BuscarEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarEmpresa">
+      <soap:operation soapAction="http://tempuri.org/ListarEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarEmpresasXCiudadYCategoria">
+      <soap:operation soapAction="http://tempuri.org/ListarEmpresasXCiudadYCategoria" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NuevaVisita">
+      <soap:operation soapAction="http://tempuri.org/NuevaVisita" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListadoVisitasXml">
+      <soap:operation soapAction="http://tempuri.org/ListadoVisitasXml" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParaPoderSerializar">
+      <soap:operation soapAction="http://tempuri.org/ParaPoderSerializar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParaPoderSerializarAdmin">
+      <soap:operation soapAction="http://tempuri.org/ParaPoderSerializarAdmin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServicioObligatorioSoap12" type="tns:ServicioObligatorioSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AltaCategoria">
+      <soap12:operation soapAction="http://tempuri.org/AltaCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaCategoria">
+      <soap12:operation soapAction="http://tempuri.org/BajaCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarCategoria">
+      <soap12:operation soapAction="http://tempuri.org/ModificarCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarCategoria">
+      <soap12:operation soapAction="http://tempuri.org/BuscarCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCategoria">
+      <soap12:operation soapAction="http://tempuri.org/ListarCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaCiudad">
+      <soap12:operation soapAction="http://tempuri.org/AltaCiudad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaCiudad">
+      <soap12:operation soapAction="http://tempuri.org/BajaCiudad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarCiudad">
+      <soap12:operation soapAction="http://tempuri.org/BuscarCiudad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCiudad">
+      <soap12:operation soapAction="http://tempuri.org/ListarCiudad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogueoUsuario">
+      <soap12:operation soapAction="http://tempuri.org/LogueoUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaUsuario">
+      <soap12:operation soapAction="http://tempuri.org/AltaUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaUsuario">
+      <soap12:operation soapAction="http://tempuri.org/BajaUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarUsuario">
+      <soap12:operation soapAction="http://tempuri.org/ModificarUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarUsuario">
+      <soap12:operation soapAction="http://tempuri.org/BuscarUsuario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AltaEmpresa">
+      <soap12:operation soapAction="http://tempuri.org/AltaEmpresa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BajaEmpresa">
+      <soap12:operation soapAction="http://tempuri.org/BajaEmpresa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificarEmpresa">
+      <soap12:operation soapAction="http://tempuri.org/ModificarEmpresa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarEmpresa">
+      <soap12:operation soapAction="http://tempuri.org/BuscarEmpresa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarEmpresa">
+      <soap12:operation soapAction="http://tempuri.org/ListarEmpresa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarEmpresasXCiudadYCategoria">
+      <soap12:operation soapAction="http://tempuri.org/ListarEmpresasXCiudadYCategoria" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NuevaVisita">
+      <soap12:operation soapAction="http://tempuri.org/NuevaVisita" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListadoVisitasXml">
+      <soap12:operation soapAction="http://tempuri.org/ListadoVisitasXml" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParaPoderSerializar">
+      <soap12:operation soapAction="http://tempuri.org/ParaPoderSerializar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParaPoderSerializarAdmin">
+      <soap12:operation soapAction="http://tempuri.org/ParaPoderSerializarAdmin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioObligatorio">
+    <wsdl:port name="ServicioObligatorioSoap" binding="tns:ServicioObligatorioSoap">
+      <soap:address location="http://localhost/WSObligatorio/ServicioObligatorio.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServicioObligatorioSoap12" binding="tns:ServicioObligatorioSoap12">
+      <soap12:address location="http://localhost/WSObligatorio/ServicioObligatorio.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

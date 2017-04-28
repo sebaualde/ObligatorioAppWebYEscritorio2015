@@ -1,0 +1,124 @@
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csproj.GenerateResource.Cache
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+C:\Users\dario\Desktop\Versión Actual\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.ControlTelefonos.resources
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABLCiudades.resources
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMLCategoria.resources
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmPrincipal.resources
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csproj.GenerateResource.Cache
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\EntidadesCompartidas.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\Logica.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\Persistencia.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\Logica.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\Persistencia.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\Segundo Obligatorio\BackUps\SegundoObligatorio2015AppWeb(05-12-2015(00.39))\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABLCiudades.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMAdministradores.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMLCategoria.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmAutorizacionDeVisitas.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmInicio.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmListadoGeneralEmpresas.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmLogueo.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmPrincipal.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb
+C:\Users\sebau\Desktop\obligatorio final\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.dll
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.pdb
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABLCiudades.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMAdministradores.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMLCategoria.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmAutorizacionDeVisitas.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmInicio.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmListadoGeneralEmpresas.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmLogueo.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmPrincipal.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+C:\Users\sistemas\Desktop\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.dll
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.pdb
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csprojResolveAssemblyReference.cache
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABLCiudades.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMAdministradores.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMLCategoria.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmAutorizacionDeVisitas.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmInicio.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmListadoGeneralEmpresas.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmLogueo.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmPrincipal.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+G:\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csproj.GenerateResource.Cache
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.dll
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.pdb
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABLCiudades.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMAdministradores.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMLCategoria.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmAutorizacionDeVisitas.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmInicio.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmListadoGeneralEmpresas.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmLogueo.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmPrincipal.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csproj.GenerateResource.Cache
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+C:\Users\sebau\Desktop\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe.config
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.exe
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\AdministracionBiosSearch.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\bin\Debug\ControlesWindows.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csprojResolveAssemblyReference.cache
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABLCiudades.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMAdministradores.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmABMLCategoria.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmAutorizacionDeVisitas.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmEmpresas.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmInicio.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmListadoGeneralEmpresas.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmLogueo.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.FrmPrincipal.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.Properties.Resources.resources
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.csproj.GenerateResource.Cache
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.exe
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\AdministracionBiosSearch\obj\x86\Debug\AdministracionBiosSearch.pdb

@@ -1,0 +1,62 @@
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Darío\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\seba\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\Marcelo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\Marcelo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\Marcelo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\Marcelo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Marcelo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Marcelo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Marcelo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Marcelo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Marcelo - copia\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Marcelo - copia\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Marcelo - copia\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Marcelo - copia\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Dario\Desktop\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Obligatorio2015AppWebBIRIBITIFLAUTICO\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\w7\Desktop\UltimiUltimo\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\OBLIGATORIO AppWebC# 2015 (Segundo Año)\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\sebau\Desktop\Segundo Obligatorio\Obligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\dario\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Administrador\Desktop\SegundoObligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+E:\Analista Sistemas\Analista de Sistemas 2do\OBLIGATORIOS 2015\2do Obligatorio - FINAL\SegundoObligatorio2015AppWeb\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{433788CF-FED1-40AB-BA70-7CF5C45D69EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AdministracionBiosSearch</RootNamespace>
+    <AssemblyName>AdministracionBiosSearch</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmABLCiudades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmABLCiudades.Designer.cs">
+      <DependentUpon>FrmABLCiudades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmABMAdministradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmABMAdministradores.Designer.cs">
+      <DependentUpon>FrmABMAdministradores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmABMLCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmABMLCategoria.Designer.cs">
+      <DependentUpon>FrmABMLCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAutorizacionDeVisitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAutorizacionDeVisitas.Designer.cs">
+      <DependentUpon>FrmAutorizacionDeVisitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpresas.Designer.cs">
+      <DependentUpon>FrmEmpresas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoGeneralEmpresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoGeneralEmpresas.Designer.cs">
+      <DependentUpon>FrmListadoGeneralEmpresas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogueo.Designer.cs">
+      <DependentUpon>FrmLogueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web References\ServicioObligatorio\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmABLCiudades.resx">
+      <DependentUpon>FrmABLCiudades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmABMAdministradores.resx">
+      <DependentUpon>FrmABMAdministradores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmABMLCategoria.resx">
+      <DependentUpon>FrmABMLCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAutorizacionDeVisitas.resx">
+      <DependentUpon>FrmAutorizacionDeVisitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpresas.resx">
+      <DependentUpon>FrmEmpresas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoGeneralEmpresas.resx">
+      <DependentUpon>FrmListadoGeneralEmpresas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogueo.resx">
+      <DependentUpon>FrmLogueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\ServicioObligatorio\Administrador.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServicioObligatorio\Categoria.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServicioObligatorio\Ciudad.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServicioObligatorio\Empresa.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServicioObligatorio\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ServicioObligatorio\ServicioObligatorio.wsdl" />
+    <None Include="Web References\ServicioObligatorio\Usuario.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayuda.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reiniciar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ControlesWindows\ControlesWindows.csproj">
+      <Project>{CEA90A0C-1945-4949-B151-0D5478BCD437}</Project>
+      <Name>ControlesWindows</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quitarFiltros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost/WSObligatorio/ServicioObligatorio.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ServicioObligatorio\</RelPath>
+      <UpdateFromURL>http://localhost/WSObligatorio/ServicioObligatorio.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>AdministracionBiosSearch_ServicioObligatorio_ServicioObligatorio</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\ServicioObligatorio\ServicioObligatorio.disco" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
